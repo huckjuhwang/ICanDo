@@ -18,6 +18,14 @@ void table3()
     }
 }
 
+void table4()
+{
+    for (int i = 1; i <= 9; i++)
+    {
+        cout << "4 x " << i << " = " << 4 * i << endl;
+    }
+}
+
 int main()
 {
     table2();
